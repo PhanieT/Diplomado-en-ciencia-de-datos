@@ -14,5 +14,5 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda o
 ![grafico](https://github.com/PhanieT/Diplomado-en-ciencia-de-datos/assets/174209156/8ea9f182-464c-45b6-9f4d-812e28643414)
 
 ### Código utilizado en el análisis
-```SELECT* FROM table```
+**```SELECT* FROM table```**
 
