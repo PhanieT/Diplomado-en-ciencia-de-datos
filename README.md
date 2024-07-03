@@ -16,6 +16,8 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda o
 ### Código utilizado en el análisis
 ```SELECT* FROM table```
 
-*Prueba*
+**Prueba**
+
+
 _prueba_
-*_prueba_*
+
